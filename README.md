@@ -1,4 +1,4 @@
-# Vallika
+# Simple Robot Game
 This is a simple robot game!
 The aim is to help robots find the exit in a maze. 
 
